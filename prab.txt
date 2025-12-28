@@ -6,3 +6,7 @@ kakfjdljfdkl
 going to add one more line 
 
 I am adding the text here from the Git portal
+
+added one more line
+second line added.
+Third line added
